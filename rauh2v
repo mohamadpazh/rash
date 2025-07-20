@@ -9,7 +9,9 @@
 
     
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
-
+  <meta name="route-pattern" content="/new(.:format)" data-turbo-transient>
+  <meta name="route-controller" content="repositories" data-turbo-transient>
+  <meta name="route-action" content="new" data-turbo-transient>
 
   <meta name="request-id" content="6BC5:88D9:1D1073C:1DE3819:6746F8F6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="601cd9570c710ab4e9535863fe0750c8d7dd1432bf8b01497db460ff47808705" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjZCQzU6ODhEOToxRDEwNzNDOjFERTM4MTk6Njc0NkY4RjYiLCJ2aXNpdG9yX2lkIjoiNjQ3MzkwODc2MTk5MTYyNDI2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="0f308d0ba269858a4787504c57916e5eb55e8857d2f5797b2e958b85125382f6" data-turbo-transient="true" />
 
