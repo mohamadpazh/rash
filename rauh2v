@@ -34,6 +34,14 @@
   <meta name="route-controller" content="repositories" data-turbo-transient>
   <meta name="route-action" content="new" data-turbo-transient>
   <title>New repository</title>
+ <meta name="route-pattern" content="/new(.:format)" data-turbo-transient>
+  <meta name="route-controller" content="repositories" data-turbo-transient>
+  <meta name="route-action" content="new" data-turbo-transient>
+  <title>New repository</title>
+ <meta name="route-pattern" content="/new(.:format)" data-turbo-transient>
+  <meta name="route-controller" content="repositories" data-turbo-transient>
+  <meta name="route-action" content="new" data-turbo-transient>
+  <title>New repository</title>
   <meta name="route-pattern" content="/new(.:format)" data-turbo-transient>
   <meta name="route-controller" content="repositories" data-turbo-transient>
   <meta name="route-action" content="new" data-turbo-transient>
